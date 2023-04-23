@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463531151253",
+    "project_id": "flcruddemo-795e3",
+    "storage_bucket": "flcruddemo-795e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463531151253:android:7cb517ebca51ec2f4f309c",
+        "android_client_info": {
+          "package_name": "com.example.fl_cruddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463531151253-96bh5rrsrktic5mcsrbiv6m49dq7d4ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15Vf-hoyhRiun9DLdxZip7R9phdZeGa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463531151253-96bh5rrsrktic5mcsrbiv6m49dq7d4ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
